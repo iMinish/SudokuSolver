@@ -1,6 +1,15 @@
 [TO RUN sudoku.hs]
-1. stack ghci sudoku.hs
-2. main
+Unix:
+  1. stack ghci sudoku.hs
+  2. main
+
+Windows 10:
+  1. ghci
+  2. :l sudoku.hs
+  3. main
+
+==> TO LOAD TYPE:
+1. :l
 
 ==> TO RELOAD TYPE:
 1. :r
